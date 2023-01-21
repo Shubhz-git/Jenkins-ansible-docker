@@ -1,5 +1,5 @@
 # Pull tomcat latest image from dockerhub 
-From tomcat:latest
+FROM tomcat:latest
 
 
 
