@@ -4,4 +4,4 @@ FROM tomcat:latest
 
 
 # copy war file on to container 
-COPY ./webapp.war /usr/local/tomcat/webapps
+COPY ./target/webapp.war /usr/local/tomcat/webapps
